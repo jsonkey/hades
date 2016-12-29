@@ -226,4 +226,9 @@ ETCD_TLSPEM to the *public* key of the client.
 	
 	we query the domain cctv1.user.hades.local form hades we get the ip 192.168.10.3, then we shut down the servic, we query the domain again
 	we get the ip 192.168.10.1.
-	
+
+
+## Future
+
+### improve the performance of UDP packets (DNS use UDP)
+    Help Hades (DNS) services improve throughput performace with DPDK technology
